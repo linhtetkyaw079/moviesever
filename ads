@@ -1,3 +1,3 @@
-{"ads":"link","image":"#"
+{"image":"","link":""
 
 }
