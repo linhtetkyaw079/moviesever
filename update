@@ -1,0 +1,23 @@
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "New Update",
+
+  "Description": " ဇတ်ကားသစ်များနှင့်ပိုမိုကောင်မွန်စာအသုံးပြုနိုင်ရန် Update တင်ပေးကြပါ Update Version 1.0ပါနော်ဂေါင်းကြီးတို့ 
+
+Vip Keyဝယ်ထားသူများလည်း အရင် Keyပဲပြန်သုံးပေးပါReview ပေးဖိုမမေ့ကြနဲ့နော်
+
+Update တင်မရရင် အရင် Versionဖျက်ပီးပြန် Downloadလိုက်ပါ",
+
+  "MainTextButton": "Update Install ",
+
+  "Cancelable": "true",
+
+  "CancelButtonText": "Cancel",
+
+  "DownloadLink": "http://darkplus.pro",
+
+  "Version": "1.0"
+
+}
